@@ -1,0 +1,21 @@
+#IntroductionIcon {
+    width: 100%;
+    max-width: 25vw;
+}
+.introductionIcon {
+    text-align: center;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+#Copy {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+}
+
+body {
+    margin-bottom: 50px;
+}
