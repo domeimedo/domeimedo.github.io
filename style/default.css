@@ -1,21 +1,11 @@
-#IntroductionIcon {
-    width: 100%;
-    max-width: 25vw;
-}
-.introductionIcon {
-    text-align: center;
-}
 
-html {
-    position: relative;
-    min-height: 100%;
-}
-#Copy {
+
+#Container {
     position: absolute;
-    bottom: 0;
-    height: 50px;
-}
-
-body {
-    margin-bottom: 50px;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh; 
+    background: linear-gradient(to bottom, #DDDDDD, #000000);
+    text-align: center;
 }
